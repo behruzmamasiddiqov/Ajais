@@ -20,7 +20,7 @@ LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002509979546"))
 
 # Mongo DB Database Config
 DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Wejajajaj:KZhJbdT5s7F97dYG@cluster0.m26oosu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "jjjjj")
 
 
 # Other Variables Config
